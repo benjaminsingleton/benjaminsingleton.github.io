@@ -1,0 +1,38 @@
+.container {
+  margin: 100px auto;
+  max-width: 560px;
+}
+
+a {
+  color: #ff5252;
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+i {
+  color: black;
+}
+
+h1 {
+  font-family: 'Montserrat';
+  font-size: 3.5em;
+  font-weight: bold;
+}
+
+p {
+  font-family: 'Inconsolata';
+  font-size: 20px;
+  color: #555;
+  line-height: 30px;
+}
+
+.fa {
+  margin-right: 20px;
+}
+
+.icons {
+  margin-top: 37.52px;
+}
